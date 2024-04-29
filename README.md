@@ -1,4 +1,4 @@
-# umami-csv-import
+# Umami-csv-import-script
 For importing csv files exported from umami cloud to umami's self-deployed version
 
 ### Quick Start
