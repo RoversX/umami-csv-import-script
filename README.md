@@ -8,6 +8,8 @@ Download python script and run it or use jupyter notebook.
 
 [umami_import.py](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import.py)
 
+[umami_import_pandas.py](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import_pandas.py)
+
 #### Reference
 https://github.com/umami-software/umami/issues/2653#issuecomment-2040970801
 
