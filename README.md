@@ -4,7 +4,7 @@ This is the **simplest and most effective solution** for importing CSV files exp
 
 ## Online Visual Solution — The Easiest Way to Migrate Data
 
-For the fastest and easiest way to migrate data, I recommend using our **online visual import tool**. Simply upload the CSV file exported from Umami Cloud, and the system will automatically handle the data import—no coding required.
+For the fastest and easiest way to migrate data, I recommend using the **online visual import tool**. Simply upload the CSV file exported from Umami Cloud, and the system will automatically handle the data import—no coding required.
 
 [🤗Hugging Face Space Import Tool](https://huggingface.co/spaces/RoversX/umami_import)
 
