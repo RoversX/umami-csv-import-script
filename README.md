@@ -38,11 +38,12 @@ Choose from the following script options:
 
 1. **Jupyter Notebook version**  
    [umami_import.ipynb](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import.ipynb)
+   [umami_import_no_duplicates](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import_no_duplicates.ipynb)
 
-2. **Python script**  
+3. **Python script**  
    [umami_import.py](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import.py)
 
-3. **Pandas optimized version**  
+4. **Pandas optimized version**  
    [umami_import_pandas.py](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import_pandas.py)
 
 ---
