@@ -38,6 +38,7 @@ Choose from the following script options:
 
 1. **Jupyter Notebook version**  
    [umami_import.ipynb](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import.ipynb)
+   
    [umami_import_no_duplicates](https://github.com/RoversX/umami-csv-import-script/blob/main/umami_import_no_duplicates.ipynb)
 
 3. **Python script**  
